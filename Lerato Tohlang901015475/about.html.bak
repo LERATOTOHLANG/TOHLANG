@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT LERATO TOHLANG</title>
+	<link rel = "stylesheet" href = "main.css">
+</head>
+<body>
+	<div id="big_wrapper">
+<div class ="top_header">
+	<header> ABOUT LERATO TOHLANG</header>
+</div>
+            <nav id = "top_menu">
+                <ul>
+                    <li><a href="home.html">home</></li>
+                    <li><a href="about.html">About me</a></li>
+                    <li><a href="services.html">Services</a></li>
+					<li><a href="contacts.html">contacts</a></li>
+     
+                </ul>
+            </nav>
+			
+<article>
+	<figure>
+	<image src="11.jpg"height="580" width="550">
+	</figure>
+</article>
+
+	
+            	           
+<div class="article">
+	         
+				<h2>ABOUT</h2>
+				<p>IT SPECIALIST. Let my story matter to you.<br> I am kind,compassionateand i look beyond capabilities.<br> I am focused to be the
+				best offering IT services in Lesotho<br>I can also work in the help desk to redress  <br>
+				the problems that end users face.<br> I have  strong analytical skills, along with <br> familiarity with defferent operating systems.</p>
+			
+</article>
+<article>
+<hgroup>
+	         
+				<h3>VISION MISSION</h3>
+	</hgroup>
+				<p>An expert in which all people have access to high quality IT services.<br>Production of high quality work based  on sound evidence.
+				<br> Quality standards that guide my quality work<br>Consideration of adaptation and adoption of my products<br>
+				and programs by customers successful outcome my work<br> dxfhkjhf</p>
+			</div>
+</article>
+
+</body>
+</html>

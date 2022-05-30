@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT LERATO TOHLANG</title>
+	<link rel = "stylesheet" href = "main.css">
+</head>
+<body>
+	<div id="big_wrapper">
+<div class ="top_header">
+	<header>ABOUT LERATO TOHLANG</header>
+</div>
+<nav id = "top_menu">
+                <ul>
+				     <li><a href="index.html">index</></li>
+                    <li><a href="about.html">About me</a></li>
+                    <li><a href="services.html">Services</a></li>
+					<li><a href="contacts.html">contacts</a></li>
+     
+               
+                </ul>
+            </nav>
+<div id="banner">
+</div>
+    
+
+
+
+
+
+<div class="footer2">
+	<table>
+</footer>
+        <td width="1000"><h4>Personal details</h4>Name:Lerato<br>Surname:Tohlang<br> Age:30<br>Profession:IT Technician</h4></td>
+		<td width="1000"><h4>Qualifications</h4>Certificate in Cyber Security<br>National Diploma in IT<br>Persuing BScIT</td>
+		<td width="1000"><h4>Schools attended</h4>Mapotu primary  school<br>Johnson Baker High School<br>Rosebank College<br>Limkokwing University </td>
+		<td width="1000"><h4>Hobbies</h4>Soccer<br>Travelling<br>Reading<br>coding</td>
+	</table>
+</div>
+</body>
+</html>

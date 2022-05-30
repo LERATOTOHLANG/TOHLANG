@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ABOUT LERATO TOHLANG</title>
+	<link rel = "stylesheet" href = "main.css">
+</head>
+<body>
+	<div id="big_wrapper">
+<div class ="top_header">
+	<header>ABOUT LERATO TOHLANG</header>
+</div>
+<nav id = "top_menu">
+                <ul>
+				    <li><a href="index.html">index</></li>
+                    <li><a href="about.html">About me</a></li>
+                    <li><a href="services.html">Services</a></li>
+					<li><a href="contacts.html">contacts</a></li>
+     
+               
+                </ul>
+            </nav
+<div class="figure5">
+	<div id ="container">
+	<img src="WEB.jpg" height="200" width="auto" ><br>
+		<div class="text">
+		<b> WEB DEVELOPMENT AND DESIGN</b>   
+		
+		</div>
+	</div>
+</div>
+
+
+<div class="figure6">
+	<div id ="container">
+	<img src="HARDWARE.jpg" height="200" width="auto"><br>
+		<div class="text">
+		<b>COMPUTER HARDWARE MAINTANANCE</b>   
+		
+		</div>
+	</div>
+</div>
+
+
+
+<div class="figure7">
+	<div id ="container">
+	 <img src="CLOUDS.jpg" height="200" width="auto" ><br>
+		<div class="text">
+		 <b>CLOUD SERVICES</b>
+
+		</div>
+	</div>
+</div>
+<div class="figure10">
+	<div id ="container">
+	 <img src="SYSTEM.jpg" height="200" width="auto" ><br>
+		<div class="text">
+		 <b>SYSTEM DEVELOPMENT</b>
+
+		</div>
+	</div>
+</div>
+	
+<div class="figure11">
+	<div id ="container">
+	 <img src="CYBER.jpg" height="200" width="auto" ><br>
+		<div class="text">
+		 <b>CYBERSECURITY</b>
+
+		</div>
+	</div>
+</div>
+<div class="figure12">
+	<div id ="container">
+	 <img src="E.jpg" height="200" width="auto" ><br>
+		<div class="text">
+		 <b>DATA ENCRYPTION</b>
+
+		</div>
+	</div>
+</div>
+			</body>
+</html>
